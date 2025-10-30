@@ -9,3 +9,7 @@ A minimal PyTorch project for real-time animations of Wiener Processes (Brownian
 
 ## Setup
 1. Install ROCm:
+
+2. Install Python dependencies:
+
+3. Run animations:
