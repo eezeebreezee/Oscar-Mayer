@@ -1,0 +1,5 @@
+torch>=2.1.0  # ROCm-compatible; install via setup_rocm.sh
+matplotlib>=3.5.0
+scipy>=1.9.0
+numpy>=1.24.0
+argparse  # Built-in, but listed for clarity
