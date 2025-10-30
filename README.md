@@ -1,3 +1,5 @@
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/3d280e8f-2b80-43e8-a445-5bfbdf405c07" />
+
 # GPU-Accelerated Wiener and DDM Animations
 
 A minimal PyTorch project for real-time animations of Wiener Processes (Brownian Motion) and Drift Diffusion Models, leveraging CUDA/ROCm for AMD GPUs.
